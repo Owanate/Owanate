@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.png" alt="An illustration of a female developer at her desk" width=350px height=465px/>
+<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.png" alt="An illustration of a female developer at her desk" width=400px height=480px/>
 
-### Hi 👋 I'm Nate 
+## Hi 👋 I'm Nate 
 
 I'm a collaborative software developer passionate about solving real-world problems. Whether you're a business looking to improve operations or a developer looking to collaborate and learn, let's connect and create solutions that make a difference. 
 
