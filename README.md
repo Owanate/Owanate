@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.png" alt="An illustration of a female developer at her desk" width=400px height=480px/>
+<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.png" alt="An illustration of a female developer at her desk" width=380px height=480px/>
 
 ## Hi 👋 I'm Nate 
 
