@@ -1,14 +1,33 @@
-<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.png" alt="An illustration of a female developer at her desk" width=350px height=480px/>
+<div align="center">
+<h1 align="center">Hi, I'm Owanate </h1>
+<p align="left">I'm a lifelong student, a very curious person and might bore you with a lot of questions. I enjoy quick hacks and exploring new technologies. I have a knack for getting things done in style.</p>
+</div>
 
-## Hi 👋 I'm Nate 
 
-I'm a collaborative software developer passionate about solving real-world problems. Whether you're a business looking to improve operations or a developer looking to collaborate and learn, let's connect and create solutions that make a difference. 
+<img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.jpg" alt="An illustration of a female developer" width=350px height=480px/>
 
-* 🚀 I'm currently working on [Aeris](http://https://github.com/Owanate/Aeris)
-* 🧠 I'm learning JavaScript Libraries and Frameworks
-* 💬 Ask me about Accessibility, SEO and Open Source Licensing
-* 🤝 I'm open to collaborating on interesting projects
-* ⚡ If I could be a professional learner I would
+* 🚀 I'm currently working on **Problem solving** and **Web Frameworks for Front-end development**.
+* 🧠 I'm learning to build **accessible apps** that take **users privacy** into consideration while making sure the **feel secure using my apps**.
+* 💬 Ask me about **Accessibility**, **Performance**, **Security**, **Privacy** and **Design Systems**.
+* 🚀 I'm on track for learning more about **Systems Design**, **Software Design & Architecture** and **Software Testing**
+* 📝 I regularly write articles on [*Hashnode*]()📰 Articles: 
+* 🤝 I'm open to collaborating on interesting projects as soon as I'm confident enough in my abilities.
+* ⚡ If I could learn and read at a faster rate than I did now, I'll probably be too smart for my own good😎. 
+* 📫 Reach out via email at owanate999@gmail.com 
 
 
 <a href="http://www.github.com/Owanate"><img src="https://github-readme-stats.vercel.app/api?username=Owanate&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&PAT_1" alt="Owanate's GitHub stats" /></a>
+
+#### Want to Build Your Own?
+
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `Owanate` so my profile readme repository has the name `Owanate`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+
+-----
+**What podcast are you currently listening to?** Tell me all about it on [ Twitter ](https://x.com/radiantriddler?t=PlMTOIfKbrWSAE-lJob5pw&s=08)
+Last edited on **17/01/2024**
