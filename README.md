@@ -13,8 +13,10 @@
 * 📝 I regularly write articles on [*Hashnode*]()
 * 🤝 I'm open to collaborating on interesting projects as soon as I'm confident enough in my abilities.
 * ⚡ If I could learn and read at a faster rate than I did now, I'll probably be too smart for my own good😎. 
-* 📫 Reach out via email at owanate999@gmail.com 
+* 📫 Reach out via email at <owanate999@gmail.com>
 
+
+-----
 #### Want to Build Your Own?
 
 Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
