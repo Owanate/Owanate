@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Owanate </h1>
-<p align="left">I'm a lifelong student, a very curious person and might bore you with a lot of questions. I enjoy quick hacks and exploring new technologies. I have a knack for getting things done in style.</p>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+<p align="left">I'm a lifelong student, a very curious person and might bore you with a lot of questions. I like experimenting with new technologies, building small projects and learning as much as I can. I enjoy quick hacks and have a knack for getting things done in style.</p>
 </div>
 
 
