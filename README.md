@@ -10,13 +10,10 @@
 * 🧠 I'm learning to build **accessible apps** that take **users privacy** into consideration while making sure the **feel secure using my apps**.
 * 💬 Ask me about **Accessibility**, **Performance**, **Security**, **Privacy** and **Design Systems**.
 * 🚀 I'm on track for learning more about **Systems Design**, **Software Design & Architecture** and **Software Testing**
-* 📝 I regularly write articles on [*Hashnode*]()📰 Articles: 
+* 📝 I regularly write articles on [*Hashnode*]()
 * 🤝 I'm open to collaborating on interesting projects as soon as I'm confident enough in my abilities.
 * ⚡ If I could learn and read at a faster rate than I did now, I'll probably be too smart for my own good😎. 
 * 📫 Reach out via email at owanate999@gmail.com 
-
-
-<a href="http://www.github.com/Owanate"><img src="https://github-readme-stats.vercel.app/api?username=Owanate&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&PAT_1" alt="Owanate's GitHub stats" /></a>
 
 #### Want to Build Your Own?
 
