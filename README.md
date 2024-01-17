@@ -7,11 +7,11 @@
 <img align="right" src="https://github.com/Owanate/Owanate/blob/master/illustration.jpg" alt="An illustration of a female developer" width=350px height=480px/>
 
 * 🚀 I'm currently working on **Problem solving** and **Web Frameworks for Front-end development**.
-* 🧠 I'm learning to build **accessible apps** that take **users privacy** into consideration while making sure the **feel secure using my apps**.
+* 🧠 I'm learning to build **accessible apps** that take **users privacy** into consideration while making sure the **feel secure using the product**.
 * 💬 Ask me about **Accessibility**, **Performance**, **Security**, **Privacy** and **Design Systems**.
 * 🚀 I'm on track for learning more about **Systems Design**, **Software Design & Architecture** and **Software Testing**
 * 📝 I regularly write articles on [*Hashnode*]()
-* 🤝 I'm open to collaborating on interesting projects as soon as I'm confident enough in my abilities.
+* 🤝 I'm open to collaborating on interesting projects as soon as I uderstand what I'm doing.
 * ⚡ If I could learn and read at a faster rate than I did now, I'll probably be too smart for my own good😎. 
 * 📫 Reach out via email at <owanate999@gmail.com>
 
